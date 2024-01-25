@@ -1,0 +1,2 @@
+# krishi-kritgya
+static website
